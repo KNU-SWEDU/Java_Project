@@ -18,6 +18,7 @@ public class Selection {
 		}
 		
 		Input.close();
+		System.out.println("Test");
 
 	}
 
