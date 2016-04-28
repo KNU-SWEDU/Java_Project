@@ -18,6 +18,10 @@ public class Selection {
 		}
 		
 		Input.close();
+<<<<<<< HEAD
+=======
+		System.out.println("Test");
+>>>>>>> branch 'master' of https://github.com/KNU-SWEDU/Java_Project.git
 
 	}
 
